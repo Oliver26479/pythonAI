@@ -1,0 +1,6 @@
+ports = []
+[languages.python]
+language = "python"
+[languages.python.run."main.py"]
+name = "main.py"
+path = "/workspace/PythonAI2/main.py"
